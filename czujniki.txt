@@ -1,1 +1,4 @@
 czujniki
+ FSL https://www.ifm.com/pl/pl/product/SA2000?_gl=1*luo5cj*_up*MQ..*_gs*MQ..&gclid=EAIaIQobChMIm5Wg__61kwMVLBaiAx34GQG-EAAYASAAEgJVIPD_BwE&gbraid=0AAAAAo2cCN5T-4CwMVCHQ_rMXuKgcl5hZ
+tt 101:   https://www.ifm.com/pl/pl/product/TT1081
+lsl :  https://aea-technique.pl/produkt/radarowa-sonda-poziomu-cieczy-i-cial-stalych-80-ghz-lr/
