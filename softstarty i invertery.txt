@@ -1,6 +1,6 @@
 Softstar i Invertery
 soft start 45 Kw https://www.conrad.pl/pl/p/schneider-electric-ats130n2d80lt-miekki-rozruch-moc-silnika-przy-400-v-45-kw-3305056.html
 soft start 22 Kw https://www.conrad.pl/pl/p/schneider-electric-ats130n2d45lt-miekki-rozruch-moc-silnika-przy-400-v-22-kw-3305051.html
-falownik 150 Kw https://solar-em.pl/falownik-huawei-150kw-sun2000-150k-mg0  ???????????????????????????????????????? Napewno
-falownik 120 Kw https://solarmarket24.pl/produkt/falownik-goodwe-gw120k-ht/ ???????????????????????????????????//
+falownik 150 Kw https://mge24.pl/acs880-01-293a-3-160-kw-293-a/?attribute_pa_modul-komunikacji=modbus-fsca-01&attribute_pa_filtr-emc=emc-rfi-kat-c3-dla-sieci-tn&gad_source=1&gad_campaignid=23563783899&gbraid=0AAAAAqvvjIxkKIilUyNPSDtF00x_gjrZJ&gclid=EAIaIQobChMIjYmqipu2kwMV93JBAh1W0jgKEAQYAyABEgLKvPD_BwE
+falownik 120 Kw https://www.eldar.biz/falownik-132kw-inovance-md520-4t132s-int-wektorowy?gad_source=1&gad_campaignid=21830526230&gbraid=0AAAAADGXUW356dcdaFKkpsEsJ_t0WTqG8&gclid=EAIaIQobChMI6sfT8pq2kwMVYEJBAh3-zAOeEAQYAiABEgJwtfD_BwE
 falownik 5 Kw https://www.sklepfalowniki.pl/falownik-lg-g100-lslv0055g100-1eofn.html
