@@ -1,4 +1,1 @@
 czujniki
-V1- Zawór elektromagnetyczny 5/2 G1/2 AZ 524 ME monostabilny
-V2-PROPORCJONALNY ZAWÓR KIERUNKOWY 4WRDE10V50L-6X/MXY/24A5
-V3- 
